@@ -24,6 +24,6 @@ for ($i = 0; $i < $num_entries; $i++) {
     }
 }
 
-echo "<a href=\"directory.php\">Invalid id!</a>\n";
+header("Location: ./random.php");
 die();
 ?>
