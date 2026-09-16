@@ -47,6 +47,9 @@
         <p>
             <a href="https://milesgee.com/wuzzring/random.php">random</a> 
         </p>
+        <p>
+            The source for this webring can be viewed <a href="https://github.com/Skykreator/wuzzring/tree/main">here</a>.
+        </p>
     </body>
 </html>
 
