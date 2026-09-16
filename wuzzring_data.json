@@ -6,6 +6,12 @@
             "title": "milesgee.com",
             "author": "Miles Gee",
             "url": "https://milesgee.com/sitemap.php"
+        },
+        {
+            "id": "ryankirsch.com",
+            "title": "ryankirsch.com",
+            "author": "Ryan Kirsch",
+            "url": "https://ryankirsch.com/index.html"
         }
     ]
 }
