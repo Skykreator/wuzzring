@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <link rel="icon" href="../favicon.ico">
+        <link rel="icon" href="favicon.ico">
         <title>WuzzRing</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
