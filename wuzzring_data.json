@@ -12,6 +12,12 @@
             "title": "ryankirsch.com",
             "author": "Ryan Kirsch",
             "url": "https://ryankirsch.com/index.html"
+        },
+        {
+            "id": "williamdeneen.com",
+            "title": "williamdeneen.com",
+            "author": "William Deneen",
+            "url": "https://williamdeneen.com"
         }
     ]
 }
