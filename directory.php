@@ -12,16 +12,16 @@
             br {text-align: center; color: black; font-family:'Times New Roman', Times, serif}
             a {
                 text-decoration: none;
-                color: rgb(0, 80, 183);
+                color: rgb(122, 240, 240);
             }
-            body {background-color: rgb(200,40,40);}
+            body {background-color: rgb(133, 15, 15);}
         </style>
     </head>
     <body>
         <div>
             <p>
                 <h1>
-                    WuzzRing Directory
+                    <span style="color: black">Wuzz</span><span style="color: white">Ring</span> Directory
                 </h1>
             </p>
             <?php
@@ -38,7 +38,7 @@
             }
 
             foreach ($json_data->entries as $entry) {
-                echo "<p><a href=\"", $entry->url, "\">", $entry->title, "</a>\n";
+                echo "<p><a style=\"font-size:30px;\" href=\"", $entry->url, "\">", $entry->title, "</a>\n";
                 echo "<br>by ", $entry->author, "</p>\n";
             }
             ?>
@@ -48,7 +48,7 @@
             <a href="https://milesgee.com/wuzzring/random.php">random</a> 
         </p>
         <p>
-            The source for this webring can be viewed <a href="https://github.com/Skykreator/wuzzring/tree/main">here</a>.
+            The source for the <img src="https://milesgee.com/media/wuzzring.gif" alt="WuzzRing" width="88" height="31" title="WuzzRing"> can be viewed <a href="https://github.com/Skykreator/wuzzring/tree/main">here</a>.
         </p>
     </body>
 </html>
