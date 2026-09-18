@@ -1,6 +1,6 @@
 # Adding yourself to the webring
 
-Add your information to `webring_data.json`.
+Add your information to `wuzzring_data.json`.
 The schema is as follows:
 
 - **`id`**: a unique id for your entry.
