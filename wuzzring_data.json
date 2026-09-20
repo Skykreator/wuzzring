@@ -18,6 +18,12 @@
             "title": "williamdeneen.com",
             "author": "William Deneen",
             "url": "https://williamdeneen.com"
+        },
+        {
+            "id": "zwhuang",
+            "title": "zwhuang.dev",
+            "author": "Zachary Huang",
+            "url": "https://zwhuang.dev"
         }
     ]
 }
